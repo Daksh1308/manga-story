@@ -13,7 +13,7 @@ Clone the Teemii GitHub repository to your local machine using the following com
 
 bash
 Copy code
-git clone https://github.com/developerrahulofficial/manga-story.git
+git clone https://github.com/Daksh1308/manga-story.git
 Step 2: Navigate to the Project Directory
 Change your current directory to the Teemii project folder:
 
